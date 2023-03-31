@@ -1,4 +1,4 @@
-# A simple starter kit for Eleventy
+# A simple starter kit for Eleventy Test
 
 Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry CMS](https://forestry.io/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend it for yourself.
 
